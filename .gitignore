@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Python 命令行工具
+tools/__pycache__/
+tools/*.db
